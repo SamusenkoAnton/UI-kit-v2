@@ -1,0 +1,58 @@
+.tickboxes_title{
+  color: #4f4f4f;
+  font-family: "9623";
+  font-size: 18px;
+  line-height: 42px;
+  text-transform: uppercase;
+  /* Text style for "STANDARD" */
+  letter-spacing: 0.9px;
+}
+.tickboxes-container{
+  display:flex;
+  flex-direction: column;
+}
+.tick-box {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+}
+
+.tick-box input {
+  display: none;
+}
+
+.tick-box__mark::before {
+  content: "";
+  position: absolute;
+  cursor: pointer;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  background-color: #4eb7a8;
+  height: 100%;
+  width: 100%;
+  transition: 0.4s;
+}
+
+.tick-box__mark::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 9px;
+  left: 8px;
+  width: 12px;
+  height: 6px;
+  border-left: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+  transform: rotate(-45deg);
+  transition: 0.4s;
+}
+
+.tick-box__checkbox:checked + .tick-box__mark::before {
+  background-color: #e5e5e5;
+}
+
+.tick-box__checkbox:checked + .tick-box__mark::after {
+  border-color: #8e8d8d;
+}

@@ -1,0 +1,10 @@
+style
+    include styles/boxmessage.scss
+.boxmessage-container
+    form
+        .input-valid
+            input.input-name(required='', placeholder='Your name', type='text', pattern='^[a-zA-Z]+$')
+        .input-valid
+            input.input-email(required='', placeholder='Your email', type='text')
+        textarea.input-message(placeholder='Your message', type='text')
+    button.button-submit Submit
