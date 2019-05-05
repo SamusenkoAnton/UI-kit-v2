@@ -1,0 +1,45 @@
+.percentages-title{
+  color: #4f4f4f;
+  font-family: "9623";
+  font-size: 18px;
+  line-height: 42px;
+  text-transform: uppercase;
+  /* Text style for "STANDARD" */
+  letter-spacing: 0.9px;
+}
+.container {
+  padding: 10px 50px;
+  text-align: center;
+}
+.chart {
+  position: relative;
+  display: inline-block;
+  color: #999;
+  font-size: 40px;
+  text-align: center;
+}
+.chart canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.footer {
+  background: #f3f3f3;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  z-index: 99;
+}
+
+.footer a {
+  color: #2c3e50;
+}
+.percentages-charts{
+  display:flex;
+}
+.pie-chart{
+  margin-left: -7%;
+}
