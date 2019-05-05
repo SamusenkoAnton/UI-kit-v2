@@ -1,5 +1,7 @@
 style
     include styles/sliders.scss
-.range-container
-    input#range(type='range', max='100', min='0')
-    label(for='range') 50
+section
+    input#r1.tip(type='range', value='40')
+    input#r2.fill.fill--1(type='range', value='75')
+section
+    input#r3.fill.fill--2.numbered(type='range', value='3', min='1', max='5', step='.05')

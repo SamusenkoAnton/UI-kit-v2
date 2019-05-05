@@ -4,9 +4,16 @@
     <list default="true" id="84fabe67-dd42-464c-9f76-505acbfe129e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/form elements/form elements.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/form elements/form elements.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sliders/sliders.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sliders/sliders.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sliders/styles/sliders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sliders/styles/sliders.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scripts/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scripts/plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,66 +27,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="percentages.pug" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/percentages/percentages.pug">
+      <file leaf-file-name="sliders.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/sliders/styles/sliders.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="34" />
+            <state relative-caret-position="4811">
+              <caret line="283" column="1" selection-start-line="283" selection-start-column="1" selection-end-line="283" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tick boxes.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tick boxes.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/tick boxes/styles/tick boxes.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state>
+              <caret selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="form elements.pug" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/form elements/form elements.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toggles.pug" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="tick boxes.pug" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/tick boxes/tick boxes.pug">
+      <file leaf-file-name="standart buttons.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/standart buttons/standart buttons.pug">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toggles.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="percentages.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/percentages/styles/percentages.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form elements.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/form elements/styles/form elements.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="8" selection-end-column="3" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -87,17 +57,65 @@
       <file leaf-file-name="index.pug" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.pug">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+            <state relative-caret-position="170">
+              <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="boxmessage.pug" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/boxmessage/boxmessage.pug">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styles/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toggles.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="toggles.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form elements.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/form elements/form elements.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tick boxes.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/tick boxes/tick boxes.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scripts/plugin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,9 +125,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Pug File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -128,7 +146,6 @@
         <option value="$PROJECT_DIR$/src/components/standart buttons/standart buttons.pug" />
         <option value="$PROJECT_DIR$/src/scripts/ripple.js" />
         <option value="$PROJECT_DIR$/src/components/standart buttons/styles/standart button.scss" />
-        <option value="$PROJECT_DIR$/src/styles/main.scss" />
         <option value="$PROJECT_DIR$/src/components/arrow buttons/styles/arrow buttons.scss" />
         <option value="$PROJECT_DIR$/src/components/arrow buttons/arrow buttons.pug" />
         <option value="$PROJECT_DIR$/src/components/percentages/styles/perc.scss" />
@@ -144,21 +161,23 @@
         <option value="$PROJECT_DIR$/src/scripts/stages.js" />
         <option value="$PROJECT_DIR$/src/components/stages/stages.pug" />
         <option value="$PROJECT_DIR$/src/components/stages/styles/stages.scss" />
-        <option value="$PROJECT_DIR$/src/components/sliders/sliders.pug" />
-        <option value="$PROJECT_DIR$/src/components/sliders/styles/sliders.scss" />
         <option value="$PROJECT_DIR$/src/scripts/slider1.js" />
         <option value="$PROJECT_DIR$/src/components/form elements/styles/boxmessage.scss" />
         <option value="$PROJECT_DIR$/src/scripts/boxmessage.js" />
-        <option value="$PROJECT_DIR$/src/scripts/plugin.js" />
         <option value="$PROJECT_DIR$/src/components/form elements/boxmessage.pug" />
-        <option value="$PROJECT_DIR$/src/index.pug" />
-        <option value="$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug" />
-        <option value="$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss" />
-        <option value="$PROJECT_DIR$/src/components/form elements/form elements.pug" />
         <option value="$PROJECT_DIR$/src/components/form elements/styles/form elements.scss" />
         <option value="$PROJECT_DIR$/src/components/form elements/elements/boxmessage/boxmessage.pug" />
         <option value="$PROJECT_DIR$/src/components/form elements/elements/tick boxes/tick boxes.pug" />
         <option value="$PROJECT_DIR$/src/components/form elements/elements/tick boxes/styles/tick boxes.scss" />
+        <option value="$PROJECT_DIR$/src/components/sliders/sliders.pug" />
+        <option value="$PROJECT_DIR$/src/components/sliders/styles/sliders.scss" />
+        <option value="$PROJECT_DIR$/src/scripts/sliders.js" />
+        <option value="$PROJECT_DIR$/src/scripts/plugin.js" />
+        <option value="$PROJECT_DIR$/src/index.pug" />
+        <option value="$PROJECT_DIR$/src/styles/main.scss" />
+        <option value="$PROJECT_DIR$/src/components/form elements/form elements.pug" />
+        <option value="$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug" />
+        <option value="$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss" />
       </list>
     </option>
   </component>
@@ -192,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -242,15 +262,6 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="form elements" type="462c0819:PsiDirectoryNode" />
               <item name="elements" type="462c0819:PsiDirectoryNode" />
-              <item name="boxmessage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI-kit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI-kit" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="form elements" type="462c0819:PsiDirectoryNode" />
-              <item name="elements" type="462c0819:PsiDirectoryNode" />
               <item name="tick boxes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -268,29 +279,18 @@
               <item name="UI-kit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="percentages" type="462c0819:PsiDirectoryNode" />
+              <item name="form elements" type="462c0819:PsiDirectoryNode" />
+              <item name="elements" type="462c0819:PsiDirectoryNode" />
+              <item name="toggles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UI-kit" type="b2602c69:ProjectViewProjectNode" />
               <item name="UI-kit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="percentages" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI-kit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI-kit" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="sliders" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI-kit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI-kit" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="sliders" type="462c0819:PsiDirectoryNode" />
+              <item name="form elements" type="462c0819:PsiDirectoryNode" />
+              <item name="elements" type="462c0819:PsiDirectoryNode" />
+              <item name="toggles" type="462c0819:PsiDirectoryNode" />
               <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,7 +309,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,12 +386,13 @@
       <workItem from="1554016719447" duration="2903000" />
       <workItem from="1554301701642" duration="1335000" />
       <workItem from="1557055408180" duration="2238000" />
-      <workItem from="1557058109186" duration="3837000" />
+      <workItem from="1557058109186" duration="6109000" />
+      <workItem from="1557069827972" duration="919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80541000" />
+    <option name="totallyTimeSpent" value="83732000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -410,13 +410,13 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50316125" side_tool="true" weight="0.24" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
       <window_info id="npm" order="2" sideWeight="0.50071126" side_tool="true" weight="0.2118019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49683878" visible="true" weight="0.24108107" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -430,19 +430,19 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="npm" order="2" sideWeight="0.50071126" side_tool="true" weight="0.2118019" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49928877" visible="true" weight="0.2118019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49894625" weight="0.32972974" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49683878" visible="true" weight="0.24108107" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50316125" side_tool="true" weight="0.24" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49894625" weight="0.32972974" />
       <window_info id="Favorites" order="3" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -453,9 +453,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/main.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -528,20 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scripts/ripple.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/standart buttons/standart buttons.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -573,27 +556,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scripts/stages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/stages.js" />
     <entry file="file://$PROJECT_DIR$/src/components/stages/stages.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -608,27 +571,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/sliders/sliders.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/sliders/styles/sliders.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="126" column="1" selection-start-line="126" selection-start-column="1" selection-end-line="126" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scripts/slider1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/slider1.js" />
     <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/boxmessage/styles/boxmessage.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -643,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scripts/plugin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/percentages/styles/percentages.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -657,34 +593,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/percentages/percentages.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/boxmessage/boxmessage.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/form elements/form elements.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -695,20 +607,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/components/percentages/percentages.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sliders/sliders.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/sliders.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/ripple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scripts/plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/sliders/styles/sliders.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4811">
+          <caret line="283" column="1" selection-start-line="283" selection-start-column="1" selection-end-line="283" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/standart buttons/standart buttons.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/form elements/form elements.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/tick boxes/tick boxes.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="16" />
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/tick boxes/styles/tick boxes.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state>
+          <caret selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/toggles.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/form elements/elements/toggles/styles/toggles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
         </state>
       </provider>
     </entry>
